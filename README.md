@@ -7,5 +7,5 @@ This is responsive webpage of working analog Clock using Javascript, Css, Html.
 ![Screenshot](clockg.gif)
 
 ## How to use this Project 
-Download project and open index.html file with a browser 
+Download project and open index.html file in a browser 
 
